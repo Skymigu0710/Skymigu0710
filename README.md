@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Skymigu0710
 - 👀 I’m interested in software architecture like Microservices.
-- 🌱 I’m currently learning microservices <3
+- 🌱 I’m currently learning machine learning <3
 - 💞️ I’m looking to collaborate on all kinds of projects that feed my mind.
 - 📫 How to reach me ... romcielo133@gmail.com
 - 😄 Pronouns: ...she
